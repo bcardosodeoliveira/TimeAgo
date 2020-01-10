@@ -1027,14 +1027,14 @@ namespace TimeAgo {
 			get {
 				return portuguese ?? (portuguese = new DateTimeFormatStrings {
 					SecondAgo =  "{0} segundo atrás",
-					SecondsAgo = "{0} segondos atrás",
+					SecondsAgo = "{0} segundos atrás",
 					MinuteAgo =  "{0} minuto atrás",
 					MinutesAgo = "{0} minutos atrás",
 					HourAgo =    "{0} hora atrás",
 					HoursAgo =   "{0} horas atrás",
 					DayAgo =     "{0} dia atrás",
 					DaysAgo =    "{0} dias atrás",
-					MonthAgo =   "{0} mes atrás",
+					MonthAgo =   "{0} mês atrás",
 					MonthsAgo =  "{0} meses atrás",
 					YearAgo =    "{0} ano atrás",
 					YearsAgo =   "{0} anos atrás",
